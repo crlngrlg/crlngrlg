@@ -5,7 +5,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-five-iota-67.vercel.app/api/top-langs?username=crlngrlg&layout=compact&langs_count=8&card_width=320" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats-kappa-woad.vercel.app?user=crlngrlg&theme=transparent)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-woad.vercel.app?user=crlngrlg&theme=transparent" alt="GitHub Streak" /></a>
 <!--
 **crlngrlg/crlngrlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
