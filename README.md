@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-five-iota-67.vercel.app/api?username=crlngrlg" />
+    <img height=200 align="center" src="https://github-readme-stats-five-iota-67.vercel.app/api?username=crlngrlg&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-five-iota-67.vercel.app/api/top-langs?username=crlngrlg&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats-five-iota-67.vercel.app/api/top-langs?username=crlngrlg&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </p>
 
